@@ -1,0 +1,55 @@
+header {
+    background-color: #210645;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+  }
+  
+  nav ul li a:hover {
+    color: #fff;
+    font-weight:100;
+  }
+  
+  section{
+    padding: 10px;
+    background-color:#fff;
+  }
+  .container{
+    padding: 10px;
+  }
+  a{
+    text-decoration: none;
+  }
+  .btn-link, .btn-link:hover {
+    background-color: rgb(5, 153, 211);
+    text-decoration: none;
+    color: #fff;
+  }
+  .col-div{
+    padding: 5px;
+  }
+
+  .btn-submit, .btn-submit:hover {
+    background-color: rgb(4, 48, 66);
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .col-btn{
+    padding: 28px;
+  }
